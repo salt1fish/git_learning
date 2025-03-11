@@ -1,1 +1,1 @@
-这是readme文件
+We are learning Git!
