@@ -1,4 +1,4 @@
-We are learning Git in B!
+We are learning Git in A and B!
 
 Hi,I am Git A.
 
